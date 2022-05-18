@@ -1,0 +1,19 @@
+Standard portein:
+
+-assignment , masses and conclude the stoichiometry for the different concentration tested at the same condition
+
+-> conclusion effect of concentration (X)
+
+- assignment masses and stoichiometry of the different trap voltages 
+
+-> conclusion related to the effect of the CE voltage on the spectra (X)
+
+LukE :
+
+-assignment , masses and conclude the stoichiometry 
+
+-> conclusion related to the state (conformation, hydrolysis, adducts,etc ) of the protein if present (X)
+
+-assignment , masses and conclude the stoichiometry of protein +ligend
+
+-> Do you see binding, how many binding site per protein what is the mass of the ligand ? (X)
