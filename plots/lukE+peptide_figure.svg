@@ -26,13 +26,13 @@
      showgrid="false"
      units="cm"
      width="21cm"
-     inkscape:zoom="1.32"
-     inkscape:cx="472.34848"
-     inkscape:cy="143.18182"
+     inkscape:zoom="1.8667619"
+     inkscape:cx="324.89414"
+     inkscape:cy="47.676139"
      inkscape:window-width="1920"
-     inkscape:window-height="1009"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
@@ -4107,5 +4107,49 @@
         </g>
       </g>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.82223px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       x="125.98194"
+       y="35.61245"
+       id="text9380"><tspan
+         sodipodi:role="line"
+         id="tspan9378"
+         style="font-size:2.82223px;stroke-width:0.264583"
+         x="125.98194"
+         y="35.61245">10+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.82223px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       x="117.76138"
+       y="32.494308"
+       id="text9380-0"><tspan
+         sodipodi:role="line"
+         id="tspan9378-6"
+         style="font-size:2.82223px;stroke-width:0.264583"
+         x="117.76138"
+         y="32.494308">10+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.82223px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       x="94.37529"
+       y="17.045319"
+       id="text9380-3"><tspan
+         sodipodi:role="line"
+         id="tspan9378-3"
+         style="font-size:2.82223px;stroke-width:0.264583"
+         x="94.37529"
+         y="17.045319">12+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.82223px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       x="88.280731"
+       y="26.541487"
+       id="text9380-7"><tspan
+         sodipodi:role="line"
+         id="tspan9378-0"
+         style="font-size:2.82223px;stroke-width:0.264583"
+         x="88.280731"
+         y="26.541487">12+</tspan></text>
   </g>
 </svg>
